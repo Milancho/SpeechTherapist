@@ -105,7 +105,6 @@ If you like or are using this project to learn, please give it a star. Thanks!!!
 | Шана | Шене | Шини | Шоно | Шуну |
 | Шава | Шеве | Шиви | Шово | Шуву |
 
-![а-ш-2](img/а-ш-2.jpg)
 ### 2.3 ш
 ![а-ш-3](img/а-ш-3.jpg)
 ### 2.4 ш
