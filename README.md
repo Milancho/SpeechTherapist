@@ -58,7 +58,7 @@ If you like or are using this project to learn, please give it a star. Thanks!!!
 
 ## 2. Ш
 ### 2.1 ш
-
+|	|	|	|	|	|
 |---	|---	|---	|---	|---	|
 | Ша  |  Ше | Ши  | Шо  | Шу  |
 | Аш  | Еш  | Иш  | Ош  | Уш  |
