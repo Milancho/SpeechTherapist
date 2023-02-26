@@ -1,4 +1,5 @@
 # Speech Therapist
+Speech therapy assesses and treats speech disorders and communication problems.
 
 ## Give a Star! :star:
 
